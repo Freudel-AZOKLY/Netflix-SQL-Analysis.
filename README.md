@@ -1,7 +1,6 @@
 # Netflix-SQL-Analysis.
 Netflix-SQL-Analysis est un projet d’analyse du catalogue Netflix. Il inclut la préparation des données (nettoyage et normalisation), la création d’un entrepôt relationnel, et des analyses descriptives réalisées avec SAS et SQL  pour identifier les tendances et insights sur films et séries.
 
-Netflix-SQL-Analysis is a project analyzing the Netflix catalog. It covers data preparation (cleaning and normalization), building a relational data warehouse, and performing descriptive analyses using SAS and SQL to uncover trends and insights on movies and series.
 
 Netflix-SQL-Analysis
 
@@ -101,6 +100,11 @@ Vues SQL pour les analyses fréquentes, par exemple v_top_directors.
 
 Auteur
 Freudel AZOKLY
+
+
+
+
+
 
 
 Netflix-SQL-Analysis
